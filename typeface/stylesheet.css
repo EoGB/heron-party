@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Cinzel';
-    src: url('/typeface/Cinzel-Regular.eot');
-    src: url('/typeface/Cinzel-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/typeface/Cinzel-Regular.woff2') format('woff2'),
-        url('/typeface/Cinzel-Regular.woff') format('woff');
+    src: url('../typeface/Cinzel-Regular.eot');
+    src: url('../typeface/Cinzel-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../typeface/Cinzel-Regular.woff2') format('woff2'),
+        url('../typeface/Cinzel-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;

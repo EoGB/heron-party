@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Lora';
-    src: url('/typeface/Lora-Regular.eot');
-    src: url('/typeface/Lora-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/typeface/Lora-Regular.woff2') format('woff2'),
-        url('/typeface/Lora-Regular.woff') format('woff');
+    src: url('../typeface/Lora-Regular.eot');
+    src: url('../typeface/Lora-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../typeface/Lora-Regular.woff2') format('woff2'),
+        url('../typeface/Lora-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;

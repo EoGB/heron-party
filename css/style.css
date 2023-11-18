@@ -1150,20 +1150,20 @@ body {
 }
 @font-face {
     font-family: 'Lora';
-    src: url('/typeface/Lora-Regular.eot');
-    src: url('/typeface/Lora-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/typeface/Lora-Regular.woff2') format('woff2'),
-        url('/typeface/Lora-Regular.woff') format('woff');
+    src: url('../typeface/Lora-Regular.eot');
+    src: url('../typeface/Lora-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../typeface/Lora-Regular.woff2') format('woff2'),
+        url('../typeface/Lora-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Cinzel';
-    src: url('/typeface/Cinzel-Regular.eot');
-    src: url('/typeface/Cinzel-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/typeface/Cinzel-Regular.woff2') format('woff2'),
-        url('/typeface/Cinzel-Regular.woff') format('woff');
+    src: url('../typeface/Cinzel-Regular.eot');
+    src: url('../typeface/Cinzel-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../typeface/Cinzel-Regular.woff2') format('woff2'),
+        url('../typeface/Cinzel-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
