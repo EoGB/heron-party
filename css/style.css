@@ -235,7 +235,7 @@ body {
 #iy4x3 {
     display: flex;
     justify-content: center;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     color: #002d76;
 }
 
@@ -329,7 +329,7 @@ body {
 #iftsi {
     display: flex;
     justify-content: space-evenly;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     background-color: rgba(137, 174, 233, 0.66);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -347,13 +347,13 @@ body {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #iby1j {
     display: flex;
     justify-content: space-evenly;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #i7uzh {
@@ -393,7 +393,7 @@ body {
     padding: 10px;
     display: flex;
     justify-content: center;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 .tab {
@@ -441,7 +441,7 @@ body {
 }
 
 #iqhvo {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -471,7 +471,7 @@ body {
 
 #i1npf {
     padding: 10px;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -491,7 +491,7 @@ body {
 
 #is6t1 {
     padding: 10px;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     color: rgba(49, 66, 94, 1);
 }
 
@@ -525,7 +525,7 @@ body {
 
 #i9g5v3 {
     padding: 10px;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     display: flex;
     justify-content: center;
 }
@@ -535,7 +535,7 @@ body {
 }
 
 #ix8o5e {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     color: #002d76;
     position: relative;
     left: 342px;
@@ -578,15 +578,15 @@ body {
 }
 
 #i9hsvl {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #ifal5i {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #icopnf {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     background-color: rgba(137, 174, 233, 0.66);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -616,7 +616,7 @@ body {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     background-color: rgba(0, 45, 117, 0.05);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -646,15 +646,15 @@ body {
 }
 
 #inj4dx {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #i1oo3u {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #in4lwh {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     background-color: rgba(137, 174, 233, 0.66);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -664,7 +664,7 @@ body {
 }
 
 #ii9b8j {
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     color: #002d76;
     position: absolute;
     margin-top: 0px;
@@ -706,7 +706,7 @@ body {
 
 #ie1wmx {
     color: rgb(71, 85, 105);
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
 }
 
 #iw2shs {
@@ -761,7 +761,7 @@ body {
 
 #isn1ok {
     color: #002d76;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     display: flex;
     justify-content: center;
 }
@@ -935,7 +935,7 @@ body {
 
 #i9es4a {
     color: #002d76;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     display: flex;
     justify-content: center;
 }
@@ -1032,7 +1032,7 @@ body {
 
 #ia9aiq {
     color: #002d76;
-    font-family: Cinzel, sans-serif;
+    font-family: Cinzel, regular;
     display: flex;
     justify-content: center;
 }
