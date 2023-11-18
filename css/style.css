@@ -964,7 +964,7 @@ body {
 }
 
 #iuyaei {
-    font-family: Cinzel;
+    font-family: Lora;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -1001,7 +1001,7 @@ body {
 
 #i6xhsu {
     padding: 10px;
-    font-family: Cinzel;
+    font-family: Lora;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -1034,7 +1034,7 @@ body {
 
 #i7zupg {
     padding: 10px;
-    font-family: Cinzel;
+    font-family: Lora;
     color: rgba(49, 66, 94, 1);
 }
 
@@ -1158,7 +1158,6 @@ body {
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'Cinzel';
     src: url('/typeface/Cinzel-Regular.eot');
