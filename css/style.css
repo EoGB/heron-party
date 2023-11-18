@@ -425,174 +425,12 @@ body {
     padding: 10px;
 }
 
-#ipyqx {
-    background-color: rgba(232, 238, 248, 1);
-}
-
-#iwi4y {
-    padding-top: 29px;
-    padding-right: 0px;
-    padding-bottom: 78px;
-    padding-left: 0px;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-}
-
-#iqhvo {
-    font-family: Cinzel;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    color: rgba(49, 66, 94, 1);
-}
-
-#iwax8 {
-    color: black;
-    width: 218px;
-    height: 218px;
-    border-top-style: groove;
-    border-right-style: groove;
-    border-bottom-style: groove;
-    border-left-style: groove;
-}
-
-#i8eur {
-    color: black;
-    width: 218px;
-    height: 218px;
-    border-top-style: groove;
-    border-right-style: groove;
-    border-bottom-style: groove;
-    border-left-style: groove;
-}
-
-#i1npf {
-    padding: 10px;
-    font-family: Cinzel;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    color: rgba(49, 66, 94, 1);
-}
-
-#il079 {
-    color: black;
-    border-top-style: groove;
-    border-right-style: groove;
-    border-bottom-style: groove;
-    border-left-style: groove;
-    width: 218px;
-    height: 218px;
-}
-
-#is6t1 {
-    padding: 10px;
-    font-family: Cinzel;
-    color: rgba(49, 66, 94, 1);
-}
-
-#i8xq2g {
-    padding-top: 161px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-    background-image: linear-gradient(5deg, rgba(0, 45, 117, 0.28) 10%, rgba(232, 238, 248, 1) 69%);
-    background-position: 0px 0px;
-    background-size: 100% 100%;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-origin: padding-box;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-}
-
-#ix1m17 {
-    color: black;
-    width: 73px;
-    height: 73px;
-}
-
-#i3kr4r {
-    display: flex;
-    justify-content: center;
-}
-
-#i9g5v3 {
-    padding: 10px;
-    font-family: Cinzel;
-    display: flex;
-    justify-content: center;
-}
-
-#ijhmy8 {
-    color: rgb(71, 85, 105);
-}
-
-#ix8o5e {
-    font-family: Cinzel;
-    color: #002d76;
-    position: relative;
-    left: 342px;
-    width: 441px;
-}
-
 .gjs-link {
     vertical-align: top;
     max-width: 100%;
     display: inline-block;
     text-decoration: none;
     color: inherit;
-}
-
-#icoqzk {
-    background-color: #002d76;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-}
-
-#ihdgr1 {
-    background-color: #002d76;
-}
-
-#if9tr1 {
-    background-image: url("../assets/roundel.png");
-    background-position: 1px 3px;
-    background-size: 50px 50px;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-origin: padding-box;
-    padding-top: 11px;
-    padding-right: 11px;
-    padding-bottom: 11px;
-    padding-left: 11px;
-    width: 51px;
-    height: 55px;
-}
-
-#i9hsvl {
-    font-family: Lora;
-}
-
-#ifal5i {
-    font-family: Lora;
-}
-
-#icopnf {
-    font-family: Cinzel;
-    background-color: rgba(137, 174, 233, 0.66);
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border-bottom-left-radius: 5px;
-    color: rgba(234, 242, 255, 1);
 }
 
 #izv7zj {
@@ -616,7 +454,7 @@ body {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    font-family: Cinzel;
+    font-family: Lora;
     background-color: rgba(0, 45, 117, 0.05);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -707,49 +545,6 @@ body {
 #ie1wmx {
     color: rgb(71, 85, 105);
     font-family: Cinzel;
-}
-
-#iw2shs {
-    justify-content: center;
-}
-
-#im0mj6 {
-    display: flex;
-    background-color: rgba(0, 45, 117, 0.05);
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    padding-top: 23px;
-    padding-right: 23px;
-    padding-bottom: 23px;
-    padding-left: 23px;
-}
-
-#irb8a1 {
-    display: flex;
-    background-color: rgba(0, 45, 117, 0.05);
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    padding-top: 23px;
-    padding-right: 23px;
-    padding-bottom: 23px;
-    padding-left: 23px;
-}
-
-#iofu6l {
-    display: flex;
-    padding-top: 23px;
-    padding-right: 23px;
-    padding-bottom: 23px;
-    padding-left: 23px;
-    background-color: rgba(0, 45, 117, 0.05);
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
 }
 
 #im5tok {
@@ -1089,20 +884,225 @@ body {
     font-weight: normal;
 }
 
-#i145nh {
-    font-weight: normal;
-}
-
 #i7bq7o {
     font-weight: normal;
 }
 
-#ij75pg {
+#idxi8l {
+    font-weight: normal;
+}
+
+#iuxzjx {
+    background-image: url("../assets/roundel.png");
+    background-position: 1px 3px;
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-origin: padding-box;
+    padding-top: 11px;
+    padding-right: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    width: 51px;
+    height: 55px;
+}
+
+#idr8wb {
+    font-family: Lora;
+}
+
+#idcol8 {
+    font-family: Lora;
+}
+
+#i9jycg {
     font-family: Cinzel;
 }
 
-#idxi8l {
+#iy4rfh {
+    font-family: Cinzel;
+    background-color: rgba(137, 174, 233, 0.66);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: rgba(234, 242, 255, 1);
+}
+
+#ivsy2y {
+    background-color: #002d76;
+}
+
+#iqs2tn {
+    background-color: #002d76;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+#ijz0bk {
     font-weight: normal;
+}
+
+#izz62o {
+    font-family: Cinzel;
+    color: #002d76;
+    position: relative;
+    left: 342px;
+    width: 441px;
+}
+
+#iwgd4m {
+    color: black;
+    width: 218px;
+    height: 218px;
+    border-top-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-left-style: groove;
+}
+
+#iuyaei {
+    font-family: Cinzel;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: rgba(49, 66, 94, 1);
+}
+
+#ili6r6 {
+    display: flex;
+    background-color: rgba(0, 45, 117, 0.05);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding-top: 23px;
+    padding-right: 23px;
+    padding-bottom: 23px;
+    padding-left: 23px;
+}
+
+#ijrr1k {
+    justify-content: center;
+}
+
+#ic5xqk {
+    color: black;
+    width: 218px;
+    height: 218px;
+    border-top-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-left-style: groove;
+}
+
+#i6xhsu {
+    padding: 10px;
+    font-family: Cinzel;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: rgba(49, 66, 94, 1);
+}
+
+#icubni {
+    display: flex;
+    background-color: rgba(0, 45, 117, 0.05);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding-top: 23px;
+    padding-right: 23px;
+    padding-bottom: 23px;
+    padding-left: 23px;
+}
+
+#i8gei3 {
+    color: black;
+    border-top-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-left-style: groove;
+    width: 218px;
+    height: 218px;
+}
+
+#i7zupg {
+    padding: 10px;
+    font-family: Cinzel;
+    color: rgba(49, 66, 94, 1);
+}
+
+#i26dog {
+    display: flex;
+    padding-top: 23px;
+    padding-right: 23px;
+    padding-bottom: 23px;
+    padding-left: 23px;
+    background-color: rgba(0, 45, 117, 0.05);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+#io397n {
+    padding-top: 29px;
+    padding-right: 0px;
+    padding-bottom: 78px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#i6xy8g {
+    color: black;
+    width: 73px;
+    height: 73px;
+}
+
+#ir2xhl {
+    display: flex;
+    justify-content: center;
+}
+
+#i7j0sb {
+    color: rgb(71, 85, 105);
+}
+
+#i4az7l {
+    padding: 10px;
+    font-family: Cinzel;
+    display: flex;
+    justify-content: center;
+}
+
+#ikwsn5 {
+    padding-top: 161px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background-image: linear-gradient(5deg, rgba(0, 45, 117, 0.28) 10%, rgba(232, 238, 248, 1) 69%);
+    background-position: 0px 0px;
+    background-size: 100% 100%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-origin: padding-box;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#iajlod {
+    background-color: rgba(232, 238, 248, 1);
 }
 
 @keyframes fadeEffect {
@@ -1170,4 +1170,3 @@ body {
     font-style: normal;
     font-display: swap;
 }
-
