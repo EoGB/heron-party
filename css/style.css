@@ -235,7 +235,7 @@ body {
 #iy4x3 {
     display: flex;
     justify-content: center;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     color: #002d76;
 }
 
@@ -329,7 +329,7 @@ body {
 #iftsi {
     display: flex;
     justify-content: space-evenly;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     background-color: rgba(137, 174, 233, 0.66);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -347,13 +347,13 @@ body {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    font-family: Cinzel, regular;
+    font-family: Lora;
 }
 
 #iby1j {
     display: flex;
     justify-content: space-evenly;
-    font-family: Cinzel, regular;
+    font-family: Lora;
 }
 
 #i7uzh {
@@ -393,7 +393,7 @@ body {
     padding: 10px;
     display: flex;
     justify-content: center;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
 }
 
 .tab {
@@ -441,7 +441,7 @@ body {
 }
 
 #iqhvo {
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -471,7 +471,7 @@ body {
 
 #i1npf {
     padding: 10px;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -491,7 +491,7 @@ body {
 
 #is6t1 {
     padding: 10px;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     color: rgba(49, 66, 94, 1);
 }
 
@@ -525,7 +525,7 @@ body {
 
 #i9g5v3 {
     padding: 10px;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     display: flex;
     justify-content: center;
 }
@@ -535,7 +535,7 @@ body {
 }
 
 #ix8o5e {
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     color: #002d76;
     position: relative;
     left: 342px;
@@ -578,15 +578,15 @@ body {
 }
 
 #i9hsvl {
-    font-family: Cinzel, regular;
+    font-family: Lora;
 }
 
 #ifal5i {
-    font-family: Cinzel, regular;
+    font-family: Lora;
 }
 
 #icopnf {
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     background-color: rgba(137, 174, 233, 0.66);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -616,7 +616,7 @@ body {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     background-color: rgba(0, 45, 117, 0.05);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -646,15 +646,15 @@ body {
 }
 
 #inj4dx {
-    font-family: Cinzel, regular;
+    font-family: Lora;
 }
 
 #i1oo3u {
-    font-family: Cinzel, regular;
+    font-family: Lora;
 }
 
 #in4lwh {
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     background-color: rgba(137, 174, 233, 0.66);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -664,7 +664,7 @@ body {
 }
 
 #ii9b8j {
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     color: #002d76;
     position: absolute;
     margin-top: 0px;
@@ -706,7 +706,7 @@ body {
 
 #ie1wmx {
     color: rgb(71, 85, 105);
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
 }
 
 #iw2shs {
@@ -761,7 +761,7 @@ body {
 
 #isn1ok {
     color: #002d76;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     display: flex;
     justify-content: center;
 }
@@ -924,6 +924,7 @@ body {
 
 #ijihxx {
     color: rgba(234, 242, 255, 1);
+    font-family: Cinzel;
 }
 
 #iks6c7 {
@@ -935,7 +936,7 @@ body {
 
 #i9es4a {
     color: #002d76;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     display: flex;
     justify-content: center;
 }
@@ -956,6 +957,7 @@ body {
     display: flex;
     justify-content: center;
     color: rgba(0, 45, 117);
+    font-family: Cinzel;
 }
 
 #iafqr9 {
@@ -1008,6 +1010,7 @@ body {
     color: rgba(0, 45, 117);
     display: flex;
     justify-content: center;
+    font-family: Cinzel;
 }
 
 #ihaltw {
@@ -1032,7 +1035,7 @@ body {
 
 #ia9aiq {
     color: #002d76;
-    font-family: Cinzel, regular;
+    font-family: Cinzel;
     display: flex;
     justify-content: center;
 }
@@ -1056,6 +1059,50 @@ body {
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
+}
+
+#iadndf {
+    font-family: Cinzel;
+}
+
+#ilrj19 {
+    font-weight: normal;
+}
+
+#ikcb93 {
+    font-weight: normal;
+}
+
+#iv858k {
+    font-weight: normal;
+}
+
+#io9y6h {
+    font-weight: normal;
+}
+
+#iocb7k {
+    font-weight: normal;
+}
+
+#ir2zqk {
+    font-weight: normal;
+}
+
+#i145nh {
+    font-weight: normal;
+}
+
+#i7bq7o {
+    font-weight: normal;
+}
+
+#ij75pg {
+    font-family: Cinzel;
+}
+
+#idxi8l {
+    font-weight: normal;
 }
 
 @keyframes fadeEffect {
@@ -1123,5 +1170,4 @@ body {
     font-style: normal;
     font-display: swap;
 }
-
 
