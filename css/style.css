@@ -62,7 +62,7 @@ body {
     border-left-style: solid;
     border-top-color: rgba(0, 0, 0, 0.06);
     border-right-color: rgba(0, 0, 0, 0.06);
-    border-bottom-color: rgba(124, 115, 115, 0.06);
+    border-bottom-color: rgba(0, 0, 0, 0.06);
     border-left-color: rgba(0, 0, 0, 0.06);
 }
 
@@ -273,7 +273,7 @@ body {
     flex-wrap: wrap;
     flex-direction: row;
     width: 73px;
-    height: 73px;   
+    height: 73px;
 }
 
 #isayg {
@@ -1205,6 +1205,13 @@ body {
     padding-left: 10px;
 }
 
+#ikqijv {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
 #i8sf1m {
     font-family: Cinzel;
     color: rgba(0, 45, 117);
@@ -1627,6 +1634,43 @@ body {
     padding-right: 0px;
     padding-bottom: 10px;
     padding-left: 0px;
+}
+
+#i68bjh {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+#i1tp3l {
+    color: rgba(0, 45, 117);
+    font-family: Cinzel;
+    display: flex;
+    justify-content: center;
+}
+
+#i93izi {
+    font-weight: normal;
+}
+
+#iwjefe {
+    padding: 10px;
+    padding-top: 17px;
+    color: rgba(49, 66, 94, 1);
+    font-family: Cinzel;
+}
+
+#ie5d0y {
+    padding-top: 23px;
+    padding-right: 23px;
+    padding-bottom: 23px;
+    padding-left: 23px;
+    background-color: rgba(0, 45, 117, 0.05);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
 }
 
 @keyframes fadeEffect {
