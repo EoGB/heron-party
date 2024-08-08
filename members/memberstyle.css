@@ -58,8 +58,8 @@
 }
 
 .document-container {
-	height:1000px;
-	width:800px;
-	margin:0 0 0 210;
-	overflow:hidden;
+	height: 1000px;
+	width: 800px;
+	margin: 0px 0px 0px 210px;
+	overflow: hidden;
 }
