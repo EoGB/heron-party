@@ -57,9 +57,9 @@
   padding-right: 8px;
 }
 
-.document-container a:hover {
-	height:100%;
-	width:100%;
-	margin:0;
+.document-container {
+	height:1000px;
+	width:800px;
+	margin:0 0 0 210;
 	overflow:hidden;
 }
