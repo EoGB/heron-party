@@ -9,6 +9,7 @@
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+  font-family: Lora;
 }
 
 /* Style the sidenav links and the dropdown button */
@@ -60,6 +61,16 @@
 .document-container {
 	height: 100%;
 	width: 100%;
-	margin: 0px 0px 0px 210px;
 	overflow: hidden;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('../typeface/Lora-Regular.eot');
+    src: url('../typeface/Lora-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../typeface/Lora-Regular.woff2') format('woff2'),
+        url('../typeface/Lora-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
