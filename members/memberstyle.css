@@ -56,3 +56,10 @@
   float: right;
   padding-right: 8px;
 }
+
+.document-container a:hover {
+	height:100%;
+	width:100%;
+	margin:0;
+	overflow:hidden;
+}
